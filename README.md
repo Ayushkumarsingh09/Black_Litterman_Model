@@ -11,5 +11,5 @@ This repository contains a comprehensive implementation of the Black-Litterman M
 - **Mean-Variance Optimization (MVO)**: Optimize portfolio weights using the adjusted returns.
 - **Visualization**: Graphical representation of portfolio weights and expected returns.
 
-## Repository Structure
+
 
