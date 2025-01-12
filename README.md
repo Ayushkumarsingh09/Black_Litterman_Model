@@ -12,4 +12,14 @@ This repository contains a comprehensive implementation of the Black-Litterman M
 - **Visualization**: Graphical representation of portfolio weights and expected returns.
 
 
+## How to Use
+
+### Prerequisites
+1. Python 3.8 or higher.
+2. Install required libraries:
+   ```bash
+   pip install -r requirements.txt
+
+
+
 
